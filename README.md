@@ -93,14 +93,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khiarj4ki/khiarj4ki/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khiarj4ki/khiarj4ki/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/khiarj4ki/khiarj4ki/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/7pgrdhe9i7fdhemtp76wsr6t5">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=7pgrdhe9i7fdhemtp76wsr6t5&count=3" alt="Spotify recently played"  />
