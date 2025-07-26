@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://khiarzaki.tech/img/profile_uploads/1753522376_instc_2024-10-04_221538_640_11zon.jpg"  />
 
 ###
 
@@ -93,8 +93,18 @@
 
 ###
 
-<br clear="both">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khiarj4ki/khiarj4ki/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khiarj4ki/khiarj4ki/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/khiarj4ki/khiarj4ki/output/pacman-contribution-graph.svg">
+</picture>
 
-<img src="https://raw.githubusercontent.com/khiarj4ki/khiarj4ki/output/snake.svg" alt="Snake animation" />
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/7pgrdhe9i7fdhemtp76wsr6t5">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=7pgrdhe9i7fdhemtp76wsr6t5&count=3" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
