@@ -2,14 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khiarj4ki&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khiarj4ki&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <a href="https://open.spotify.com/user/7pgrdhe9i7fdhemtp76wsr6t5">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=7pgrdhe9i7fdhemtp76wsr6t5&count=2" alt="Spotify recently played"  />
-  </a>
-</div>
-
 ###
 
 <img align="right" height="150" src="https://khiarzaki.tech/img/profile_uploads/1753522376_instc_2024-10-04_221538_640_11zon.jpg"  />
